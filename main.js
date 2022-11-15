@@ -1,8 +1,3 @@
-// cambiar color 1 elemento lista 
-
-// 5 elentos 5 botones
-
-// deshacer con el mismo botón
 
 const title = document.querySelector("h1")
 const perrea = document.querySelector("#song")
